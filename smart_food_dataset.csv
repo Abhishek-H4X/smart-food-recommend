@@ -1,0 +1,29 @@
+Name,Age,Weight,Height,Gender,Activity_Level,Disease,BMI_Category,Recommended_Breakfast,Recommended_Lunch,Recommended_Dinner
+Rahul,22,70,172,Male,High,None,Normal,Eggs,Brown Rice,Grilled Chicken
+Priya,28,60,165,Female,Medium,None,Normal,Poha,Rice Dal,Vegetables
+Amit,35,85,168,Male,Low,BP,Overweight,Oats,Chapati Vegetables,Soup Salad
+Neha,45,90,170,Female,Low,Diabetes,Overweight,Oats Salad,Brown Rice Veg,Vegetable Soup
+Rohan,18,55,165,Male,Medium,None,Normal,Oats,Fruits Salad,Vegetable Soup
+Anjali,26,58,162,Female,Medium,None,Normal,Fruits,Rice Dal,Vegetables
+Vikas,50,95,160,Male,Low,BP,Obese,Oats,Soup Salad,Vegetables
+Pooja,40,82,169,Female,Medium,Diabetes,Overweight,Oats,Brown Rice Veg,Soup
+Karan,30,75,175,Male,High,None,Normal,Eggs Chicken,Rice Vegetables,Grilled Fish
+Sneha,33,88,174,Female,Low,BP,Overweight,Oats,Chapati Veg,Soup
+Arjun,21,65,170,Male,High,None,Normal,Eggs,Rice Chicken,Grilled Chicken
+Meera,29,68,167,Female,Medium,None,Normal,Fruits,Brown Rice,Vegetables
+Suresh,38,92,176,Male,Low,BP,Obese,Oats,Chapati Veg,Soup
+Kavita,41,80,168,Female,Medium,Diabetes,Overweight,Oats,Brown Rice Veg,Soup
+Deepak,27,59,164,Male,High,None,Normal,Fruits,Rice Chicken,Vegetables
+Ritu,32,77,172,Female,Medium,None,Normal,Eggs,Brown Rice,Grilled Chicken
+Manish,36,89,170,Male,Low,BP,Obese,Oats,Soup Salad,Vegetables
+Nidhi,48,84,165,Female,Low,Diabetes,Overweight,Oats,Brown Rice,Soup
+Tarun,23,61,169,Male,High,None,Normal,Eggs,Rice Chicken,Grilled Fish
+Simran,31,73,171,Female,Medium,None,Normal,Poha,Rice Dal,Vegetables
+Rakesh,37,86,175,Male,Low,BP,Overweight,Oats,Chapati Veg,Soup
+Preeti,44,82,168,Female,Medium,Diabetes,Overweight,Oats,Brown Rice Veg,Soup
+Nikhil,25,66,170,Male,Medium,None,Normal,Eggs,Rice Chicken,Vegetables
+Pallavi,34,79,172,Female,Medium,None,Overweight,Oats,Brown Rice,Soup
+Ajay,39,91,177,Male,Low,BP,Obese,Oats,Vegetables,Soup
+Komal,42,83,169,Female,Low,Diabetes,Overweight,Oats,Brown Rice,Soup
+Vivek,20,57,165,Male,High,None,Normal,Fruits,Rice Chicken,Vegetables
+Shalini,28,71,173,Female,Medium,None,Normal,Eggs,Brown Rice,Grilled Chicken
